@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ... Java Projects and Tech-based Research papers
 - 📫 How to reach me ... [arpitgupta4957@gmail.com](mailto:arpitgupta4957@gmail.com)
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... 2nd-year student at VIT Bhopal University
+- ⚡ Fun fact: ... 3rd-year student at VIT Bhopal University
 
 ## 🔧 Technologies & Tools
 
@@ -13,6 +13,7 @@
 - Git, GitHub
 - HTML, CSS, JavaScript
 - Python, C++
+- Kotlin, Dart
 - Research Tools: LaTeX, Jupyter Notebooks
 
 ## 📚 Projects
