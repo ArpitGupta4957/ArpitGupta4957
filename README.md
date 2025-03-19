@@ -1,51 +1,38 @@
-# Hello, I'm Arpit Gupta! 👋
+<br clear="both">
 
-- 👀 I’m interested in ... Development and Problem Solving
-- 🌱 I’m currently learning ... Android Development
-- 💞️ I’m looking to collaborate on ... Java Projects and Tech-based Research papers
-- 📫 How to reach me ... [arpitgupta4957@gmail.com](mailto:arpitgupta4957@gmail.com)
-- 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... 3rd-year student at VIT Bhopal University
+<h2 align="left">Hi 👋! My name is Arpit Gupta and I'm  an App Developer from Kanpur.</h2>
 
-## 🔧 Technologies & Tools
+###
 
-- Java, Android Studio
-- Git, GitHub
-- HTML, CSS, JavaScript
-- Python, C++
-- Kotlin, Dart
-- Research Tools: LaTeX, Jupyter Notebooks
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 📚 Projects
+###
 
-- [Project 1: Project Name](link-to-repository)
-  - Brief description of the project and its significance.
-  
-- [Project 2: Project Name](link-to-repository)
-  - Brief description of the project and its significance.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 🌐 Social Media
+###
 
-- [LinkedIn](https://www.linkedin.com/in/arpitgupta4957/)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 🤝 Open Source Contributions
-
-- [Contribution 1: Project Name](link-to-contribution)
-  - https://github.com/ArpitGupta4957/Apna-Page.com
-  
-- [Contribution 2: Project Name](link-to-contribution)
-  - https://github.com/ArpitGupta4957/Recepie-project
-
-## 🎓 Education
-
-- Bachelor of Technology in Computer Science
-  - VIT Bhopal University, India
-  - Expected Graduation: [June, 2026]
-
-## 🏆 Achievements
-
-- : 5 * problem solver at HackerRank
-  - https://www.hackerrank.com/domains/java
-
-- Research Paper: [Mathematical & Computational Analysis of Population Control](link-to-paper)
-  - Under process.
+###
