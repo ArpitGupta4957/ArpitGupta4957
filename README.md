@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitGupta4957&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArpitGupta4957&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -28,21 +29,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="excel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbms/dbms-original.svg" height="30" alt="dbms logo"  />
 </div>
 
 ###
 
 <h3>🚀 Projects & Research</h3>
-- **AES Image Encryptor**: Engineered an image encryption platform using AES, reducing data breaches by 50%.
-- **VITGPT**: AI-driven chatbot for VIT students, reducing manual inquiry handling by 40%.
-- **Numerical and Computational Analysis on Population Control**: Developed population growth models, improving prediction accuracy by 25%.
+
+<strong>AES Image Encryptor (Feb 2023)</strong>
+<p>Developed an image encryption platform using AES, reducing data breaches by 50%. Created high-performance encryption algorithms, optimizing data protection practices and increasing processing speed by 30%. Enhanced the front-end interface, ensuring a user-friendly experience that facilitated over 1,000 secure image uploads weekly.</p>
+
+<strong>VITGPT (Aug 2023)</strong>
+<p>Built an AI-driven chatbot for VIT students, reducing manual inquiry handling time by 40% and benefiting over 5,000 users annually. Integrated Firebase to enhance real-time data management and authentication, improving chatbot responsiveness by 25%. Led a team to improve natural language processing accuracy, increasing user engagement.</p>
+
+<strong>Numerical and Computational Analysis on Population Control</strong>
+<p>Developed and tested five population growth models, improving prediction accuracy by 25%. Authored a research paper that translated complex computational analyses into accessible insights, increasing readability by 30%. Collaborated with a team to use ML and GPT in Python to simulate population trends and analyze control strategies.</p>
 
 ###
 
 <h3>🏆 Achievements & Roles</h3>
-- Completed a **200 Days of Code** challenge focused on Java and Data Structures & Algorithms.
-- **Managing Editor** (Monthly Newsletter) at **DSW Office, VIT Bhopal**.
-- **AI Club Partnership Team** - Secured 3 sponsorships to support AI-related initiatives.
+
+<p>Completed a 200 Days of Code challenge focused on Java and Data Structures & Algorithms, solving over 600 coding challenges and building a personal portfolio.</p>
+<p>Worked as a Managing Editor for the Monthly Newsletter at VIT Bhopal’s DSW Office.</p>
+<p>Led strategic partnership initiatives in the AI Club at VIT Bhopal, securing three sponsorships that provided valuable resources to enhance club operations.</p>
 
 ###
 
@@ -70,6 +86,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ArpitGupta4957/output/snake.svg" alt="Snake animation" />
 
 ###
