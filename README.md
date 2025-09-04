@@ -40,28 +40,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbms/dbms-original.svg" height="30" alt="dbms logo"  />
 </div>
 
-###
+## 🚀 Projects & Research  
 
-<h3>🚀 Projects & Research</h3>
+### 📱 SOS Emergency Response System (Apr 2025)  
+- ⚡ Built a **cross-platform SOS app** in Flutter (Android & iOS) with a **40% faster task completion rate**.  
+- 📍 Integrated **real-time geolocation** & optimized responder routing (Google Maps + GeoHashing) → cut delays by **60%**.  
+- 🔒 Implemented **AES encryption + SupaBase** for secure, role-based data sync with **100% isolation**.  
 
-<strong>AES Image Encryptor (Feb 2023)</strong>
-<p>Developed an image encryption platform using AES, reducing data breaches by 50%. Created high-performance encryption algorithms, optimizing data protection practices and increasing processing speed by 30%. Enhanced the front-end interface, ensuring a user-friendly experience that facilitated over 1,000 secure image uploads weekly.</p>
+### 🧠 Suno – Samjho (Ongoing, 2025)  
+- 🌐 Culturally-aware **mental health app** with **voice/text-based emotional assessment** in **22+ Indian languages**.  
+- 🎙️ Used **FastAPI + TensorFlow** for audio analysis & multilingual inputs, boosting accessibility in rural India.  
+- 🚨 Designed **real-time crisis detection** with ethical escalation to therapists → targeting **100M underserved users**.  
 
-<strong>VITGPT (Aug 2023)</strong>
-<p>Built an AI-driven chatbot for VIT students, reducing manual inquiry handling time by 40% and benefiting over 5,000 users annually. Integrated Firebase to enhance real-time data management and authentication, improving chatbot responsiveness by 25%. Led a team to improve natural language processing accuracy, increasing user engagement.</p>
+### 🔒 AES Image Encryptor (Nov 2024)  
+- 🖼️ Engineered an **AES-based encryption platform** reducing data breaches by **50%**.  
+- ⚡ Optimized algorithms → **30% faster processing speed**.  
+- 🎨 Improved front-end → enabled **1000+ secure uploads weekly**.  
 
-<strong>Numerical and Computational Analysis on Population Control</strong>
-<p>Developed and tested five population growth models, improving prediction accuracy by 25%. Authored a research paper that translated complex computational analyses into accessible insights, increasing readability by 30%. Collaborated with a team to use ML and GPT in Python to simulate population trends and analyze control strategies.</p>
+---
 
-###
+## 🏆 Achievements & Roles  
 
-<h3>🏆 Achievements & Roles</h3>
+🏅 **Govt. of India Copyright Holder** – *Cool Veil*, a wearable cooling jacket with thermoelectric modules.  
+🥈 **2nd Runner-up – SGU Hackathon** on *Mental Health AI*.  
+👨‍💼 **HR Intern @ IISPPR** – Conducted **100+ interviews** globally (tech + non-tech).  
+📰 **Managing Editor** – Monthly Newsletter, VIT Bhopal DSW Office.  
+🤝 **AI Club – Partnership Team Lead** – Secured **3+ sponsorships** enhancing club operations.  
 
-<p>Completed a 200 Days of Code challenge focused on Java and Data Structures & Algorithms, solving over 600 coding challenges and building a personal portfolio.</p>
-<p>Worked as a Managing Editor for the Monthly Newsletter at VIT Bhopal’s DSW Office.</p>
-<p>Led strategic partnership initiatives in the AI Club at VIT Bhopal, securing three sponsorships that provided valuable resources to enhance club operations.</p>
-
-###
 
 <h3>🌐 Portfolio</h3>
 <a href="https://arpit-gupta-portfolio.vercel.app/">
