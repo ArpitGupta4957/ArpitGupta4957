@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbms/dbms-original.svg" height="30" alt="dbms logo"  />
 </div>
 
-## 🚀 Projects & Research  
+## 🚀 Projects
 
 ### 📱 SOS Emergency Response System (Apr 2025)  
 - ⚡ Built a **cross-platform SOS app** in Flutter (Android & iOS) with a **40% faster task completion rate**.  
