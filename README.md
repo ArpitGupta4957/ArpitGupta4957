@@ -65,26 +65,6 @@
 
 </div>
 
-
-## 🚀 Projects
-
-### 📱 SOS Emergency Response System (Apr 2025)  
-- ⚡ Built a **cross-platform SOS app** in Flutter (Android & iOS) with a **40% faster task completion rate**.  
-- 📍 Integrated **real-time geolocation** & optimized responder routing (Google Maps + GeoHashing) → cut delays by **60%**.  
-- 🔒 Implemented **AES encryption + SupaBase** for secure, role-based data sync with **100% isolation**.  
-
-### 🧠 Suno – Samjho (Ongoing, 2025)  
-- 🌐 Culturally-aware **mental health app** with **voice/text-based emotional assessment** in **22+ Indian languages**.  
-- 🎙️ Used **FastAPI + TensorFlow** for audio analysis & multilingual inputs, boosting accessibility in rural India.  
-- 🚨 Designed **real-time crisis detection** with ethical escalation to therapists → targeting **100M underserved users**.  
-
-### 🔒 AES Image Encryptor (Nov 2024)  
-- 🖼️ Engineered an **AES-based encryption platform** reducing data breaches by **50%**.  
-- ⚡ Optimized algorithms → **30% faster processing speed**.  
-- 🎨 Improved front-end → enabled **1000+ secure uploads weekly**.  
-
----
-
 ## 🏆 Achievements & Roles  
 
 🏅 **Govt. of India Copyright Holder** – *Cool Veil*, a wearable cooling jacket with thermoelectric modules.  
