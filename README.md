@@ -3,7 +3,7 @@
 <img src="https://holopin.me/arpitgupta4957" alt="An image of @arpitgupta4957's Holopin badges" />
 </a>
 </div>
-<h2 align="left">Hi 👋! My name is Arpit Gupta and I'm a Software Developer, passionate about App Development, AI, and problem-solving.</h2>
+<h2 align="left">Hi 👋! My name is Arpit Gupta and I'm a Developer, passionate about App Development, AI, and problem-solving.</h2>
 
 ###
 
