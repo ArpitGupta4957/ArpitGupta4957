@@ -71,14 +71,6 @@
 
 </div>
 
-## 🏆 Achievements & Roles  
-
-🏅 **Govt. of India Copyright Holder** – *Cool Veil*, a wearable cooling jacket with thermoelectric modules.  
-🥈 **2nd Runner-up – SGU Hackathon** on *Mental Health AI*.  
-👨‍💼 **HR Intern @ IISPPR** – Conducted **100+ interviews** globally (tech + non-tech).  
-📰 **Managing Editor** – Monthly Newsletter, VIT Bhopal DSW Office.  
-🤝 **AI Club – Partnership Team Lead** – Secured **3+ sponsorships** enhancing club operations.  
-
 
 <h3>🌐 Portfolio</h3>
 <a href="https://arpit-gupta-portfolio.vercel.app/">
