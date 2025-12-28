@@ -155,9 +155,8 @@ Building meaningful tech that actually helps people 🚀
 
 <!-- Contribution Stack -->
 <h1 align="center"><i>Contribution Stack ✌️</i></h1>
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArpitGupta4957&hide_border=true&theme=highcontrast" />
+  <img src="https://streak-stats.demolab.com/?user=ArpitGupta4957&hide_border=true&theme=highcontrast" />
 </p>
 
 <!-- Activity -->
