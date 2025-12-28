@@ -1,101 +1,170 @@
+
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1TyGjZaTvGa8KOMiCAsB-a-7OOuZl45hk/view">
+<img src="https://img.shields.io/badge/My%20CV-%40Arpit-blue" width="200" height="35">
+</a>
+
+<a href="https://arpit-gupta-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35">
+</a>
+
+</div>
+
+<!-- Heading and BIO -->
+<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Arpit Gupta </h1>
+
+<div align="center" width="150px">
+
+B.Tech Student @ VIT Bhopal University  
+Passionate App Developer • AI Enthusiast • Problem Solver  
+Building meaningful tech that actually helps people 🚀
+
+</div>
+
+<!-- Profile Views -->
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=ArpitGupta4957&label=Profile%20views&color=0e75b6&style=flat" />
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ArpitGupta4957">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/ArpitGupta4957">
+</p>
+
+<!-- Language Charts -->
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArpitGupta4957&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="500" alt="stats graph" />
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArpitGupta4957&theme=moltack" height="300"/>
+</p>
+
+<!-- Contact Section -->
+<div align="center">
+
+<h3><b>📞 Connect with me</b> </h3>
+
+<p>
+
+<a href="mailto:arpitgupta4957@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" />
+</a>
+
+<a href="https://www.linkedin.com/in/arpit-gupta-95b5a2250/">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
+</a>
+
+<a href="https://leetcode.com/u/user6791FW/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" />
+</a>
+
+</p>
+</div>
+
+<!-- Achievement Corner -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center"><b>🏆 Open Source Contribution : Hacktoberfest 2025 🏆</b></h3>
+
+<div align="center"><b>🌱 Proud Hacktoberfest Contributor 🌱</b></div>
+
+<br>
+
 <div align="center">
 <a href="https://holopin.io/@arpitgupta4957">
-<img src="https://holopin.me/arpitgupta4957" alt="An image of @arpitgupta4957's Holopin badges" />
+<img src="https://holopin.me/arpitgupta4957" width="70%">
 </a>
 </div>
-<h2 align="left">Hi 👋! My name is Arpit Gupta and I'm a Developer, passionate about App Development, AI, and problem-solving.</h2>
 
-###
+<hr>
 
-<div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArpitGupta4957&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+</p>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArpitGupta4957&layout=compact&theme=dracula" height="150" alt="languages graph" />
+<!-- Type Animation -->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+an+App+Developer;AI+Lover+%7C+Problem+Solver;Always+Building+Something+Cool)](https://git.io/typing-svg)
 
-</div>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
 
-###
+<!-- About -->
+<p align='left'>
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966"  />
+- 🔭 <b>BTech</b> Student @ VIT Bhopal  
+- 🌱 Exploring <b>AI + Flutter + Products</b>  
+- 🤝 Love collaborating & building useful products  
+- 🥅 <b>2026 Goal:</b> Build impactful Softwares  
+- ⚡ I believe tech should solve real problems 😎  
 
-###
+</p>
 
-## 🛠️ Tech Stack  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
+<!-- Banners 4th Phase : SpiderMan -->
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+<!-- Banners 4th Phase : SpiderMan -->
 
-<div align="left">
+#### 🦖 Competitive Programming
 
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL/MySQL logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
-<img width="12" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI logo" />
-<img width="12" />
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="30" alt="MS Excel logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
-<img width="12" />
-<img src="https://avatars.githubusercontent.com/u/79589323?s=200&v=4" height="30" alt="Cursor logo" />
-<img width="12" />
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" height="30" alt="AWS logo" />
-<img width="12" />
-<img src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" height="30" alt="Oracle OCI logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
-</div>
+#### 📚 Frontend Development & Frameworks
 
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
 
-<h3>🌐 Portfolio</h3>
-<a href="https://arpit-gupta-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" height="35" alt="portfolio logo" />
-</a>
+#### ⛏️ Backend Development & Database Services
 
-###
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
 
-<h3>📬 Connect with Me</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/arpit-gupta-95b5a2250/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
-  </a>
-  <a href="mailto:arpitgupta4957@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://github.com/ArpitGupta4957">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
-</div>
+#### 😡 App Development
 
-###
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
 
-<br clear="both">
+#### 🚦 Version Control & Documentation Tools
 
-<img src="https://github.com/ArpitGupta4957/ArpitGupta4957/blob/output/snake.svg" alt="Snake animation" />
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2025/hacktoberfest20231.svg)
 
-###
+<!-- Skill Section -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Contribution Stack -->
+<h1 align="center"><i>Contribution Stack ✌️</i></h1>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ArpitGupta4957&hide_border=true&theme=highcontrast" />
+</p>
+
+<!-- Activity -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=ArpitGupta4957&theme=tokyo-day)
+
+<p align="center">
+<img src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px">
+</p>
+
+<img src="https://github.com/ArpitGupta4957/ArpitGupta4957/blob/output/snake.svg">
