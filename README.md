@@ -42,25 +42,28 @@ Building meaningful tech that actually helps people 🚀
 
 <h3><b>📞 Connect with me</b> </h3>
 
-<p>
+<div align="center">
+
+<div style="display: flex; justify-content: center; gap: 60px;">
 
 <a href="mailto:arpitgupta4957@gmail.com">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
 </a>
 
 <a href="https://instagram.com/">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/arpit-gupta-95b5a2250/">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
 </a>
 
 <a href="https://leetcode.com/u/user6791FW/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
 </a>
 
-</p>
+</div>
+</div>
 </div>
 
 <!-- Achievement Corner -->
