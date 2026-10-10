@@ -48,23 +48,6 @@ I enjoy building applications, designing backend systems, solving complex proble
 
 <br>
 
-## 💼 Professional Experience
-
-### 🏢 HackerEarth
-**Technical Content Engineer | June 2026 – Present**
-
-- Developing and reviewing technical assessments and coding challenges.
-- Working on AI-assisted technical content workflows and developer evaluations.
-- Improving content quality, efficiency, and scalability.
-
-### 🏢 IISPPR
-**Full Stack App Developer Intern | June 2025 – August 2025**
-
-- Developed a responsive cross-platform application with scalable backend architecture.
-- Optimized content delivery and user experience.
-- Reduced interaction time by **30%** and increased engagement by **45%**.
-
----
 
 ## 🚀 Featured Projects
 
@@ -190,13 +173,6 @@ A location-aware emergency response application connecting users with responders
 <td><b>Hacktoberfest 2025 Contributor</b><br>Completed the challenge with 6+ merged open-source pull requests.</td>
 </tr>
 <tr>
-<td>🤝</td>
-<td><b>AI Club – Partnership Initiatives</b><br>Secured three sponsorships through industry collaborations and stakeholder management.</td>
-</tr>
-<tr>
-<td>🎓</td>
-<td><b>DSW Office Member – VIT</b><br>Contributed to university events, workshops, and extracurricular activities.</td>
-</tr>
 </table>
 
 <br>
