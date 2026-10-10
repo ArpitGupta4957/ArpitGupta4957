@@ -1,182 +1,273 @@
 
-
 <div align="center">
+
+# Hi 👋, I'm Arpit Gupta
+
+### 💼 Technical Content Engineer @ HackerEarth
+
+**Software Development • Backend Engineering • AI-Powered Products**
+
+Building meaningful software, exploring intelligent systems, and solving real-world problems.
 
 <a href="https://drive.google.com/file/d/1TyGjZaTvGa8KOMiCAsB-a-7OOuZl45hk/view">
-<img src="https://img.shields.io/badge/My%20CV-%40Arpit-blue" width="200" height="35">
+  <img src="https://img.shields.io/badge/Resume-View%20CV-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
-
 <a href="https://arpit-gupta-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/arpit-gupta-95b5a2250/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Problem+Solver;Flutter+%7C+Backend+%7C+AI;Building+Products+That+Make+an+Impact;Always+Learning+%26+Shipping+Code" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ArpitGupta4957&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ArpitGupta4957?label=Followers&style=flat-square&color=2563eb" alt="Followers"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Technical Content Engineer at HackerEarth** and a **2026 Computer Science & Engineering graduate from VIT**.
+
+I enjoy building applications, designing backend systems, solving complex problems, and exploring how AI can make software more intelligent and accessible.
+
+- 💼 Working as a **Technical Content Engineer at HackerEarth**
+- 🚀 Interested in **Software Engineering, Backend Development & System Design**
+- 🤖 Exploring **AI, LLMs, RAG & Intelligent Applications**
+- 📱 Building cross-platform applications using **Flutter**
+- 🛠️ Working with **Java, Python, TypeScript, FastAPI & PostgreSQL**
+- 🌍 Passionate about **Open Source and Developer Communities**
+- 💡 I believe technology should solve real problems and create meaningful impact
+
+<br>
+
+## 💼 Professional Experience
+
+### 🏢 HackerEarth
+**Technical Content Engineer | June 2026 – Present**
+
+- Developing and reviewing technical assessments and coding challenges.
+- Working on AI-assisted technical content workflows and developer evaluations.
+- Improving content quality, efficiency, and scalability.
+
+### 🏢 IISPPR
+**Full Stack App Developer Intern | June 2025 – August 2025**
+
+- Developed a responsive cross-platform application with scalable backend architecture.
+- Optimized content delivery and user experience.
+- Reduced interaction time by **30%** and increased engagement by **45%**.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 GitMatch
+
+**Developer Discovery & Collaboration Platform**
+
+A swipe-based platform designed to help developers discover open-source repositories, find hackathon teammates, and connect with mentors.
+
+**Key Highlights**
+- GitHub OAuth authentication
+- Personalized discovery feeds
+- Repository caching and swipe history
+- GitHub REST API integration
+- Responsive Material 3 interface
+
+**Tech Stack**
+
+`Flutter` `Supabase` `PostgreSQL` `GitHub API` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Suno – Samjho
+
+**AI-Powered Multilingual Mental Wellness App**
+
+An AI-powered mental wellness application supporting voice and text interactions across 22+ Indian languages.
+
+**Key Highlights**
+- Multilingual conversational interface
+- AI-powered emotional support
+- Privacy-first architecture
+- Optimized REST API performance
+- Backend query optimization
+
+**Tech Stack**
+
+`FastAPI` `PostgreSQL` `Redis` `AI/ML` `REST APIs`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🚨 SOS Emergency Response System
+
+**Real-Time Emergency Assistance Platform**
+
+A location-aware emergency response application connecting users with responders through real-time alerts and optimized routing.
+
+**Key Highlights**
+- Real-time SOS alerts and location tracking
+- Responder discovery using GeoHashing
+- Event-driven Pub/Sub architecture
+- Google Maps and Mapbox integrations
+- AES encryption and distributed backend services
+
+**Tech Stack**
+
+`Flutter` `Supabase` `PostgreSQL` `Mapbox` `Google Maps API` `Pub/Sub`
+
+</td>
+</tr>
+</table>
+
+> 💡 Explore my repositories and projects on [GitHub](https://github.com/ArpitGupta4957?tab=repositories) or visit my [Portfolio](https://arpit-gupta-portfolio.vercel.app/).
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,dart,ts&theme=dark" alt="Programming Languages"/>
+
+**Java • Python • Dart • TypeScript • SQL**
+
+### 🎨 Frontend & App Development
+
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind,androidstudio&theme=dark" alt="Frontend and App Development"/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mongodb,redis,supabase&theme=dark" alt="Backend Development"/>
+
+### ☁️ Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma,vscode&theme=dark" alt="Cloud and Tools"/>
+
+### 🤖 AI & Engineering Concepts
+
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge" alt="LLM APIs"/>
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge" alt="NLP"/>
+<img src="https://img.shields.io/badge/System_Design-34495E?style=for-the-badge" alt="System Design"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<table>
+<tr>
+<td>🏅</td>
+<td><b>Cool Veil – Innovation & Intellectual Property</b><br>Developed a thermoelectric cooling jacket using Peltier modules and rechargeable power technology, with an intellectual-property achievement recognized by the Government of India.</td>
+</tr>
+<tr>
+<td>🥉</td>
+<td><b>SGU Hackathon – 2nd Runner-up</b><br>Recognized for building a culturally aware AI-based mental health solution.</td>
+</tr>
+<tr>
+<td>🌱</td>
+<td><b>Hacktoberfest 2025 Contributor</b><br>Completed the challenge with 6+ merged open-source pull requests.</td>
+</tr>
+<tr>
+<td>🤝</td>
+<td><b>AI Club – Partnership Initiatives</b><br>Secured three sponsorships through industry collaborations and stakeholder management.</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><b>DSW Office Member – VIT</b><br>Contributed to university events, workshops, and extracurricular activities.</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🌱 Open Source Journey
+
+<a href="https://holopin.io/@arpitgupta4957">
+  <img src="https://holopin.me/arpitgupta4957" width="75%" alt="Holopin Badges"/>
 </a>
 
 </div>
 
-<!-- Heading and BIO -->
-<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Arpit Gupta </h1>
+---
 
-<div align="center" width="150px">
+## 📊 GitHub Analytics
 
-B.Tech Student @ VIT Bhopal University  
-Passionate App Developer • AI Enthusiast • Problem Solver  
-Building meaningful tech that actually helps people 🚀
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArpitGupta4957&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArpitGupta4957&theme=tokyonight" height="170" alt="Top Languages"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=ArpitGupta4957&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br>
+
+
 
 </div>
 
-<!-- Profile Views -->
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=ArpitGupta4957&label=Profile%20views&color=0e75b6&style=flat" />
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ArpitGupta4957/ArpitGupta4957/output/snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing **Software Engineering, Backend Systems, AI, Open Source, and interesting product ideas.**
+
 <br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ArpitGupta4957">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/ArpitGupta4957">
-</p>
-
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ArpitGupta4957&show_icons=true&theme=dracula&hide_border=true"
-    height="180"
-    alt="Arpit's GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitGupta4957&layout=compact&theme=dracula&hide_border=true"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-<!-- Contact Section -->
-
-
-<div align="center">
-
-<h3><b>📞 Connect with me</b> </h3>
-
-<div align="center">
-
-<div style="display: flex; justify-content: center; gap: 60px;">
 
 <a href="mailto:arpitgupta4957@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<a href="https://instagram.com/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
-</a>
-
 <a href="https://www.linkedin.com/in/arpit-gupta-95b5a2250/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://leetcode.com/u/user6791FW/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://arpit-gupta-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
+<br><br>
+
+### ⚡ Code. Build. Learn. Repeat.
+
+*Turning ideas into impactful software, one commit at a time.*
+
 </div>
-</div>
-</div>
-
-<!-- Achievement Corner -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center"><b>🏆 Open Source Contribution : Hacktoberfest 2025 🏆</b></h3>
-
-<div align="center"><b>🌱 Proud Hacktoberfest Contributor 🌱</b></div>
-
-<br>
-
-<div align="center">
-<a href="https://holopin.io/@arpitgupta4957">
-<img src="https://holopin.me/arpitgupta4957" width="70%">
-</a>
-</div>
-
-<hr>
-
-<p align='center'>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
-</p>
-
-<!-- Type Animation -->
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+an+App+Developer;AI+Lover+%7C+Problem+Solver;Always+Building+Something+Cool)](https://git.io/typing-svg)
-
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
-
-<!-- About -->
-<p align='left'>
-
-- 🔭 <b>BTech</b> Student @ VIT Bhopal  
-- 🌱 Exploring <b>AI + Flutter + Products</b>  
-- 🤝 Love collaborating & building useful products  
-- 🥅 <b>2026 Goal:</b> Build impactful Softwares  
-- ⚡ I believe tech should solve real problems 😎  
-
-</p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
-<!-- Banners 4th Phase : SpiderMan -->
-<p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
-</p>
-<!-- Banners 4th Phase : SpiderMan -->
-
-#### 🦖 Competitive Programming
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
-
-#### 📚 Frontend Development & Frameworks
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-
-#### ⛏️ Backend Development & Database Services
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
-
-#### 😡 App Development
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
-
-#### 🚦 Version Control & Documentation Tools
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2025/hacktoberfest20231.svg)
-
-<!-- Skill Section -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Contribution Stack -->
-<h1 align="center"><i>Contribution Stack ✌️</i></h1>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArpitGupta4957&hide_border=true&theme=highcontrast" />
-</p>
-
-<!-- Activity -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=ArpitGupta4957&theme=tokyo-day)
-
-<p align="center">
-<img src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px">
-</p>
-
-<img src="https://github.com/ArpitGupta4957/ArpitGupta4957/blob/output/snake.svg">
