@@ -31,6 +31,22 @@ Building meaningful tech that actually helps people 🚀
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/ArpitGupta4957">
 </p>
 
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ArpitGupta4957&show_icons=true&theme=dracula&hide_border=true"
+    height="180"
+    alt="Arpit's GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitGupta4957&layout=compact&theme=dracula&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
+
 <!-- Language Charts -->
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArpitGupta4957&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="500" alt="stats graph" />
