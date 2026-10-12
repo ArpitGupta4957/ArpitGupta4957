@@ -23,11 +23,6 @@ Building meaningful software, exploring intelligent systems, and solving real-wo
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Problem+Solver;Flutter+%7C+Backend+%7C+AI;Building+Products+That+Make+an+Impact;Always+Learning+%26+Shipping+Code" alt="Typing SVG"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ArpitGupta4957&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ArpitGupta4957?label=Followers&style=flat-square&color=2563eb" alt="Followers"/>
-
 </div>
 
 ---
